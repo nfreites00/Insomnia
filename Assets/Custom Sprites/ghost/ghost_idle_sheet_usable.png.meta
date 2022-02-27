@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 45a17ebf8e39ca64fac8c84282a2d7fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3859030613717050292
+    second: ghost_idle_sheet_usable_0
+  - first:
+      213: 59698717671648300
+    second: ghost_idle_sheet_usable_1
+  - first:
+      213: -4376468021038913239
+    second: ghost_idle_sheet_usable_2
+  - first:
+      213: 1797904477256455344
+    second: ghost_idle_sheet_usable_3
+  - first:
+      213: 3848903761626517056
+    second: ghost_idle_sheet_usable_4
+  - first:
+      213: 7429208075090258466
+    second: ghost_idle_sheet_usable_5
+  - first:
+      213: 146891026393450269
+    second: ghost_idle_sheet_usable_6
+  - first:
+      213: -8449528978753044979
+    second: ghost_idle_sheet_usable_7
+  - first:
+      213: 4715748575328482952
+    second: ghost_idle_sheet_usable_8
+  - first:
+      213: 5071844925617524047
+    second: ghost_idle_sheet_usable_9
+  - first:
+      213: -8546128424598611408
+    second: ghost_idle_sheet_usable_10
+  - first:
+      213: -3459756758218174345
+    second: ghost_idle_sheet_usable_11
+  - first:
+      213: 7136673710424556575
+    second: ghost_idle_sheet_usable_12
+  - first:
+      213: 4777498369170804870
+    second: ghost_idle_sheet_usable_13
+  - first:
+      213: -723873053530093792
+    second: ghost_idle_sheet_usable_14
+  - first:
+      213: 9055405165555627494
+    second: ghost_idle_sheet_usable_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b366fba5e70e8530800000000000000
+      internalID: 3859030613717050292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6d5cdaa714d000800000000000000
+      internalID: 59698717671648300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296e1bb589a343c0800000000000000
+      internalID: -4376468021038913239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b494faa89073f810800000000000000
+      internalID: 1797904477256455344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec96e249d0a6530800000000000000
+      internalID: 3848903761626517056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae736f169d91760800000000000000
+      internalID: 7429208075090258466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17cfd83c9cd90200800000000000000
+      internalID: 146891026393450269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3e0e492e3dba80800000000000000
+      internalID: -8449528978753044979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886328a1854b17140800000000000000
+      internalID: 4715748575328482952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 4
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dcc4b8610d26640800000000000000
+      internalID: 5071844925617524047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a5ee62a7d066980800000000000000
+      internalID: -8546128424598611408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77016291f897cffc0800000000000000
+      internalID: -3459756758218174345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1489bb8dee8a0360800000000000000
+      internalID: 7136673710424556575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6801f6954751d4240800000000000000
+      internalID: 4777498369170804870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278cd50b4944f5f0800000000000000
+      internalID: -723873053530093792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_idle_sheet_usable_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e53e2e35034bad70800000000000000
+      internalID: 9055405165555627494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
